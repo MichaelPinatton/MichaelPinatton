@@ -1,4 +1,4 @@
-👋 <h3>Hi there, I'm Michael !</h3>
+<h3>Hi there, I'm Michael !</h3>
 
 - 👀 I’m interested in SEO and Python
 - 🌱 I’m currently learning Python/Pandas/Data Science
